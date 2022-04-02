@@ -1,0 +1,22 @@
+{
+  "name": "lab1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "crypto": "^1.0.1",
+    "express": "^4.17.3",
+    "express-handlebars": "^6.0.3",
+    "fetch": "^1.1.0",
+    "node-fetch": "^3.2.3",
+    "nodemon": "^2.0.15",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
